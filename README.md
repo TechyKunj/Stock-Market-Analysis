@@ -41,25 +41,26 @@ It is designed for:
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
 git clone https://github.com/TechkuKunj/stock-market-analysis.git
-cd stock-market-analysis
+     cd stock-market-analysis
+
 2. Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the notebook
 jupyter notebook main.ipynb
 
-🔮 Future Work
+## Future Work
 Predictive modeling with machine learning
 
 Incorporating technical indicators (RSI, MACD, Bollinger Bands)
 
 Real-time stock data fetching via APIs (Yahoo Finance, Alpha Vantage)
 
-🤝 Contributing
+## 🤝Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
 
-📜 License
+## 📜License
 This project is licensed under the MIT License.
