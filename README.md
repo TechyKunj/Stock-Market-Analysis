@@ -44,7 +44,7 @@ It is designed for:
 
 1. Clone the repository
 
-git clone https://github.com/TechkuKunj/stock-market-analysis.git
+git clone https://github.com/TechyKunj/Stock-Market-Analysis.git
      cd stock-market-analysis
 
 2. Install dependencies
