@@ -22,11 +22,12 @@ It is designed for:
 ---
 
 ## 📂 Project Structure
+
 ├── main.ipynb # Jupyter Notebook with full analysis
+
 ├── Market.csv # Stock market dataset
-├── requirements.txt # List of dependencies
+
 ├── README.md # Project documentation
-└── assets/ # (Optional) Folder for saved plots
 
 
 ## 🧰 Tech Stack
@@ -52,12 +53,6 @@ git clone https://github.com/TechkuKunj/stock-market-analysis.git
 3. Run the notebook
 jupyter notebook main.ipynb
 
-## Future Work
-Predictive modeling with machine learning
-
-Incorporating technical indicators (RSI, MACD, Bollinger Bands)
-
-Real-time stock data fetching via APIs (Yahoo Finance, Alpha Vantage)
 
 ## 🤝Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
